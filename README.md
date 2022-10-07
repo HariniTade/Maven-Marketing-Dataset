@@ -44,3 +44,13 @@ Campaign Success
 - AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
 - Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
 
+
+
+# Data wrangling
+
+I have attached the Python .ipynb file used to explore, clean and transform the dataset for viability
+
+
+# Visualizations & Insights
+
+The link to my Tableau with the Maven Marketing dashboards can be found here: https://public.tableau.com/app/profile/harini.tadepalli
